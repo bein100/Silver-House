@@ -59,6 +59,10 @@
         font-weight: 500;
         font-size: 20px;
     }
+    
+    .nav{
+        position: relative;
+    }
 
     .burger {
         display: block;
@@ -66,6 +70,7 @@
         width: 15%;
         position: absolute;
         right: 1%;
+        top: 5%;
         z-index: 0;
     }
 
